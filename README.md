@@ -1,1 +1,1 @@
-# myyyQtFile
+# myQtFile
